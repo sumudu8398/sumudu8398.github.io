@@ -9,6 +9,7 @@ export default function Navbar() {
                     GitHub
                 </a>
                 <a href="#experience" className="hover:text-blue-400">Experience</a>
+                <a href="#education" className="hover:text-blue-400">Education</a>
                 <a href="#contact" className="hover:text-blue-400">Contact</a>
             </div>
         </div>
